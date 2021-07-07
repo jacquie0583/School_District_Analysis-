@@ -54,5 +54,13 @@ School size scores remained the same through this altercation.  An observation o
 
 #### Effects on Scores by School Type
 Type of school results remained consist with the initial summary.  Significant to note here is the measurable difference between Charter and District.  A study could be undertaken to see why this is the case and possible implementation of these successful characteristics in the district setting may prove beneficial.
-![Chart 7]()
+![Chart 7](https://github.com/jacquie0583/School_District_Analysis-/blob/main/Resources/Chart%207.png)
+
+##   Summary
+      After reading and math scores have been replaced, the comparison of the analysis before and after revealed four changes to the school district report.  At the school level, only THS experienced significant changes in statistics.  The average reading scores changed only slightly, 0.4% The differences are incredibly significant in the Percent Passing Reading and Percentage Overall Passing. In Percent Passing Reading scores, the difference changes from a positive 8.7% in the original values to a negative 18.9.  A change of 27.6 % for percentage passing reading.  In Percent Overall Passing, the difference changes from a positive 19% in the original values to a negative 6.9.  A change of 25.9 % for percentage passing reading.  Resulting in a 28.4 % and 28.5 decrease, from the initial statistics.
+       The District Statistical Summary did not reflect a significant fluctuation.  Changes ranging from 0 to 1.5%.  The overall affect of this incident is isolated specifically to THS, with minor affects in the district data.  Through the analysis, a few observations were revealed and knowing your dedication to excellence, we thought we would share them with you:
+
+            *	The inverse relationship between money allocated per student verses students’ performance.  Of course, this is possibly due to the increasing needs at the lower achieving schools.  Also noted is the concern of the grade reported for math which are much less than those of reading.  Allocation for such deviation might be a consideration.
+            *	Significant to note here is the measurable difference between Charter and District.  A study could be undertaken to see why this is the case and possible implementation of these successful characteristics in the district setting may prove beneficial.
+
 

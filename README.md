@@ -29,5 +29,10 @@ Maria notified my company with regards to the academic dishonesty occurring with
 ##   Results
 ###   Affects at a District Level  
 After refactoring the code to replace the math/reading scores of the 9th grade THS students, the District Statistical Summary did not reflect a strong fluctuation.  Changes ranging from 0 to 1.5% change.  A measure of significance was not performed at this time but available if deemed necessary.  A z-test can be carried out to find a z-score for your study; it would then be converted to a P-value.  If your P-value is lower than the significance level, you can conclude that your observation is statistically significant.    
-![Chart 1]()
+![Chart 1](https://github.com/jacquie0583/School_District_Analysis-/blob/main/Resources/Chart%201.png)
+
+###   Affects at the School Level      
+#### Thomas High School
+Reviewing Thomas High School data, Percent Passing Reading and Percent Overall Passing appear to be the most significant percentage change.  These statistics are worth further investigation.
+![Chart 2]()
 

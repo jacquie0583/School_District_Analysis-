@@ -46,5 +46,9 @@ The scores per grade were not change for the effects on the averages were only s
 
 #### Effects on Scores by School Spending
 Spending did not change but observing the data the more money spent the decreasing the students’ performance.  Of course, this is possibly due to the increasing needs at the lower achieving schools.  Also noted is the concern of the grade reported for math which are much less than those of reading.  Allocation for such deviation might be a consideration.
-![Chart5]()
+![Chart5](https://github.com/jacquie0583/School_District_Analysis-/blob/main/Resources/Chart%205.png)
+
+#### Effects on Scores by School Size
+School size scores remained the same through this altercation.  An observation overall of performance verses size of school is incredibly significant, 32%.  Ideas of breaking the larger schools into small dens might allow for more intimate atmosphere thus allowing for closer monitoring of students.
+
 

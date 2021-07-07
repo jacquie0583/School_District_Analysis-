@@ -38,4 +38,8 @@ Reviewing Thomas High School data, Percent Passing Reading and Percent Overall P
 
 #### THS Compared to Other Schools
 The table below demonstrates the difference in scores comparing the rest of the schools in the district with that of TSH.  The differences are incredibly significant in the Percent Passing Reading and Percentage Overall Passing. In Percent Passing Reading, the difference changes from a positive 8.7% in the original values to a negative 18.9.  A change of 27.6 % for percentage passing reading.  In Percent Overall Passing, the difference changes from a positive 19% in the original values to a negative 6.9.  A change of 25.9 % for percentage passing reading.
+![Chart 3](https://github.com/jacquie0583/School_District_Analysis-/blob/main/Resources/Chart%203.png)
+
+#### Effects of replacing the ninth-grade scores 
+The scores per grade were not change for the effects on the averages were only slightly altered.            
 

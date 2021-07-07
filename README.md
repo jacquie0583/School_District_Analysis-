@@ -50,5 +50,9 @@ Spending did not change but observing the data the more money spent the decreasi
 
 #### Effects on Scores by School Size
 School size scores remained the same through this altercation.  An observation overall of performance verses size of school is incredibly significant, 32%.  Ideas of breaking the larger schools into small dens might allow for more intimate atmosphere thus allowing for closer monitoring of students.
+![Chart 6](https://github.com/jacquie0583/School_District_Analysis-/blob/main/Resources/Chart%206.png)
 
+#### Effects on Scores by School Type
+Type of school results remained consist with the initial summary.  Significant to note here is the measurable difference between Charter and District.  A study could be undertaken to see why this is the case and possible implementation of these successful characteristics in the district setting may prove beneficial.
+![Chart 7]()
 

@@ -36,10 +36,15 @@ After refactoring the code to replace the math/reading scores of the 9th grade T
 Reviewing Thomas High School data, Percent Passing Reading and Percent Overall Passing appear to be the most significant percentage change.  These statistics are worth further investigation.
 ![Chart 2](https://github.com/jacquie0583/School_District_Analysis-/blob/main/Resources/Chart%202.png)
 
-#### THS Compared to Other Schools
+#### Effects THS Compared to Other Schools
 The table below demonstrates the difference in scores comparing the rest of the schools in the district with that of TSH.  The differences are incredibly significant in the Percent Passing Reading and Percentage Overall Passing. In Percent Passing Reading, the difference changes from a positive 8.7% in the original values to a negative 18.9.  A change of 27.6 % for percentage passing reading.  In Percent Overall Passing, the difference changes from a positive 19% in the original values to a negative 6.9.  A change of 25.9 % for percentage passing reading.
 ![Chart 3](https://github.com/jacquie0583/School_District_Analysis-/blob/main/Resources/Chart%203.png)
 
-#### Effects of replacing the ninth-grade scores 
+#### Effects of Replacing the Ninth-Grade Scores 
 The scores per grade were not change for the effects on the averages were only slightly altered.            
+![Chart 4](https://github.com/jacquie0583/School_District_Analysis-/blob/main/Resources/Chart%204.png)
+
+#### Effects on Scores by School Spending
+Spending did not change but observing the data the more money spent the decreasing the students’ performance.  Of course, this is possibly due to the increasing needs at the lower achieving schools.  Also noted is the concern of the grade reported for math which are much less than those of reading.  Allocation for such deviation might be a consideration.
+![Chart5]()
 

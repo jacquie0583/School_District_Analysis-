@@ -1,4 +1,4 @@
-# Analytic Report for the School District
+# Analytic Report for the PyCity Schools District
 ![Paragraph 1](https://github.com/jacquie0583/School_District_Analysis-/blob/main/Resources/Paragraph%201.png)
 ![Chart 1](https://github.com/jacquie0583/School_District_Analysis-/blob/main/Resources/Chart%201.png)
 ![Paragraph 2](https://github.com/jacquie0583/School_District_Analysis-/blob/main/Resources/Paragraph%202.png)

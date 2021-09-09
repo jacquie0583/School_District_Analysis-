@@ -66,3 +66,5 @@ Type of school results remained consist with the initial summary.  Significant t
 &nbsp;&nbsp;*	Significant to note here is the measurable difference between Charter and District.  A study could be undertaken to see why this is the case and possible implementation of these successful characteristics in the district setting may prove beneficial.
 
 
+Contact:
+jacquie0583@yahoo.com

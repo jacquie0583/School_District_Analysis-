@@ -1,4 +1,8 @@
 # Analytic Report for the PyCity Schools District
+## Resources
+Data Source: PyCitySchools.ipynb file and rename it PyCitySchools_Challenge_testing.ipynb.
+Software: Python 3.9, Visual Studio Code 1.50.0, Anaconda 4.8.5, Jupyter Notebook 6.1.4, Pandas
+
 <!-- ![Paragraph 1](https://github.com/jacquie0583/School_District_Analysis-/blob/main/Resources/Paragraph%201.png)
 ![Chart 1](https://github.com/jacquie0583/School_District_Analysis-/blob/main/Resources/Chart%201.png)
 ![Paragraph 2](https://github.com/jacquie0583/School_District_Analysis-/blob/main/Resources/Paragraph%202.png)
